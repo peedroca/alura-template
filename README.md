@@ -1,2 +1,3 @@
-# alura-template
-Template para os repositórios
+# Alura-TIPOCURSO
+
+Nome do Curso - NOMECURSO
